@@ -1,0 +1,2 @@
+#define stopwatch_VERSION_MAJOR @stopwatch_VERSION_MAJOR@
+#define stopwatch_VERSION_MINOR @stopwatch_VERSION_MINOR@
